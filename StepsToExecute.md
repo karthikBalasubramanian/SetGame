@@ -6,7 +6,7 @@
 	4. execute the following commands
 		
 ```
-cd SiftScience
+cd your_directory
 javac src/com/game/sets/*.java
 cd src
 cat ../input.txt | java com.game.sets.SetGame
